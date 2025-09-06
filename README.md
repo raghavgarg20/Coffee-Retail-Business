@@ -1,6 +1,6 @@
 # Coffee-Retail-Business
 Coffee retail shops business analysis, analyzing the transactional records of three stores of Roastery coffee business . Track important KPIs , describe historical performance and forecast various metrics 
- Coffee Sales Business Analysis  
+ 
 
  [Download Full Report (PDF)](docs/project_report.pdf) 
  [View Full Report on Google Docs](https://docs.google.com/document/d/1_PwnoCdXwn3zpn7TMTNdf6krIhjVfoIhryBHbpAqLKk/edit?usp=sharing)
